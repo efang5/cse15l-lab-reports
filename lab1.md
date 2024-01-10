@@ -15,22 +15,22 @@ There is no output as cd only changes the directory and the directory for the ne
 There is no error.
 ## cd file argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%203.08.19%20PM.png?raw=true)
-The working directory was user@sahara.
+The working directory was user@sahara lecture1.
 
-There is an output because an error occured. The error occured becuase the arguement 
+There is an output because an error occured. The error occured becuase the arguement was not a directory.
 
 ## ls no argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.29.51%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give what it was supposed to change the directory to.
+lecture1 was the output that was the only thing in the working directory.
 
 There is no error.
 ## ls directory argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.30.01%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give what it was supposed to change the directory to.
+Hello.class  Hello.java  messages  README was the output because they are what was within lecture1.
 
 There is no error.
 ## ls file argument
