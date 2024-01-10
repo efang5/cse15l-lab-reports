@@ -17,7 +17,7 @@ There is no error.
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%203.08.19%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is an output because an error occured.
+There is an output because an error occured. The error occured becuase the arguement 
 
 ## ls no argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.29.51%20PM.png?raw=true)
