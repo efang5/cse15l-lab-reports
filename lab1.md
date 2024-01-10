@@ -14,7 +14,7 @@ There is no output as cd only changes the directory and the directory for the ne
 
 There is no error.
 ## cd file argument
-![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.11.09%20PM.png?raw=true)
+![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%203.08.19%20PM.png?raw=true)
 The working directory was user@sahara.
 
 There is an output because an error occured.
