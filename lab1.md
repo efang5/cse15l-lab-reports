@@ -30,14 +30,14 @@ There is no error.
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.30.01%20PM.png?raw=true)
 The working directory was user@sahara.
 
-Hello.class  Hello.java  messages  README was the output because they are what was within lecture1.
+Hello.class  Hello.java  messages  README was the output because they are what were within lecture1.
 
 There is no error.
 ## ls file argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.32.34%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give what it was supposed to change the directory to.
+lecture1/messages/en-us.txt is the output as we gave is a file not a directory so it could not give us what paths are found under that directory.
 
 There is no error.
 ## cat no argument
