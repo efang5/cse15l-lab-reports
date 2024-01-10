@@ -4,7 +4,7 @@
 ## cd directory argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.10.55%20PM.png?raw=true)
 ## cd file argument
-![Image]()
+![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.11.09%20PM.png?raw=true)
 ## ls no argument
 ![Image]()
 ## ls directory argument
