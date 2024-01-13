@@ -44,20 +44,18 @@ There is no error.
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.33.35%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give what it was supposed to change the directory to.
+There is no output as we did not give it any inputs to combine so it caused an error where it got stuck in an endless loop.
 
-There is no error.
 ## cat directory argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.35.35%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give what it was supposed to change the directory to.
+It throws the error we gave it a directory because cat combines what we give it by grabbing what is at that location files have info to use at the location, directories don't.
 
-There is no error.
 ## cat file argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.35.22%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give what it was supposed to change the directory to.
+Hello World! is the output as that is the text at the location of the file we told cat to access.
 
 There is no error.
