@@ -1,6 +1,6 @@
 # Lab Report 1
 ## cd no argument
-![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.09.53%20PM.png?raw=true)
+![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-24%20at%209.17.09%20AM.png?raw=true)
 The working directory was user@sahara.
 
 There is no output as cd only changes the directory and as we did not give an input the directory was changed to the home directory we already were at so the directory did not change.
