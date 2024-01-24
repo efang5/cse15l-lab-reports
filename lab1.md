@@ -41,7 +41,7 @@ lecture1/messages/en-us.txt is the output as we gave is a file not a directory s
 
 There is no error.
 ## cat no argument
-![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.33.35%20PM.png?raw=true)
+![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-24%20at%209.20.26%20AM.png?raw=true)
 The working directory was user@sahara.
 
 There is no output as we did not give it any inputs to combine so it started printing out whatever was inputed afterward.
