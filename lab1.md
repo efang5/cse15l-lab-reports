@@ -3,7 +3,7 @@
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.09.53%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as cd only changes the directory and as we did not give what it was supposed to change the directory to the next directory was unchanged.
+There is no output as cd only changes the directory and as we did not give an input the directory was changed to the home directory we already were at so the directory did not change.
 
 There is no error.
 ## cd directory argument
@@ -44,7 +44,9 @@ There is no error.
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.33.35%20PM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give it any inputs to combine so it caused an error where it got stuck in an endless loop.
+There is no output as we did not give it any inputs to combine so it started printing out whatever was inputed afterward.
+
+There is no error
 
 ## cat directory argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-10%20at%201.35.35%20PM.png?raw=true)
