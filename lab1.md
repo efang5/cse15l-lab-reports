@@ -1,9 +1,9 @@
 # Lab Report 1
 ## cd no argument
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-24%20at%209.17.09%20AM.png?raw=true)
-The working directory was user@sahara.
+The working directory was user@sahara lecture1.
 
-There is no output as cd only changes the directory and as we did not give an input the directory was changed to the home directory we already were at so the directory did not change.
+There is no output as cd only changes the directory and as we did not give an input the directory was changed to the home directory.
 
 There is no error.
 ## cd directory argument
@@ -44,7 +44,7 @@ There is no error.
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-24%20at%209.20.26%20AM.png?raw=true)
 The working directory was user@sahara.
 
-There is no output as we did not give it any inputs to combine so it started printing out whatever was inputed afterward.
+The output is anything we enter in afterward as we did not give it any inputs to combine so it started printing out whatever was inputed afterward.
 
 There is no error
 
