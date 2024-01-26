@@ -71,7 +71,7 @@ How do the values of any relevant fields of the class change from this specific 
 Private Key
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.34.02%20PM.png?raw=true)
 Public Key
-![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.39.49%20PM.png?raw=true)
+![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.50.52%20PM.png?raw=true)
 Login Without Password
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.40.36%20PM.png?raw=true)
 
