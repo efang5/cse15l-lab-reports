@@ -68,8 +68,11 @@ What are the relevant arguments to those methods, and the values of any relevant
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 
 ## Part 2
+Private Key
 ![Image](LINK1)
-![Image](LINK1)
+Public Key
+![Image]((https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.34.02%20PM.png?raw=true))
+Login Without Password
 ![Image](LINK1)
 
 ## Part 3
