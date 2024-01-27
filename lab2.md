@@ -83,6 +83,4 @@ Login Without Password
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.40.36%20PM.png?raw=true)
 
 ## Part 3
-In a couple of sentences, describe something you learned from lab in week 2 or 3 that you didn't know before.
-
-
+I learned how to make a server and make changes to the website based on the add ons to the url. I learned about splitting Strings at certain characters in the String.
