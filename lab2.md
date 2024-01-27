@@ -60,17 +60,28 @@ class ChatServer {
 
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.36.04%20PM.png?raw=true)
 Which methods in your code are called?
+
 The handleRequest method is called.
+
 What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+
 The add on we added to the url is the relevant argument to the method. The array called list is the relevant field of the class.
+
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+
 The list array was changed into a new array with a single String from an empty String array. The string was formatted based off the assignment requirements.
+
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-01-26%20at%2012.36.29%20PM.png?raw=true)
 Which methods in your code are called?
+
 The handleRequest method is called.
+
 What are the relevant arguments to those methods, and the values of any relevant fields of the class?
+
 The add on we added to the url is the relevant argument to the method. The array called list is the relevant field of the class.
+
 How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
+
 The list array was changed into a new array with two Strings from a single String. The string was formatted based off the assignment requirements.
 
 
