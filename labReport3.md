@@ -2,6 +2,7 @@
 ## Part 1
 
 A failure-inducing input for the buggy program, as a JUnit test and any associated code (write it as a code block in Markdown)
+
 ```
 @Test
   public void testAverageWithoutLowestRepeat() {
@@ -11,6 +12,7 @@ A failure-inducing input for the buggy program, as a JUnit test and any associat
 ```
 
 An input that doesn't induce a failure, as a JUnit test and any associated code (write it as a code block in Markdown)
+
 ```
 @Test
   public void testAverageWithoutLowest2() {
@@ -21,7 +23,8 @@ An input that doesn't induce a failure, as a JUnit test and any associated code 
 The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-02-10%20at%207.31.03%20PM.png?raw=true)
 
-The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown)\n
+The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown)
+
 Before
 ```
 static double averageWithoutLowest(double[] arr) {
