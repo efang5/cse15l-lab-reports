@@ -61,12 +61,14 @@ static double averageWithoutLowest(double[] arr) {
 ```
 
 ## Part 2
-Chosen: grep
+Chosen: find
 
-Method 1
+Method 1 - fd
+```
 
-Method 2
+```
+Method 2 - locate
 
-Method 3
+Method 3 - fzf
 
-Method 4
+Method 4 - ffind
