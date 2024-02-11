@@ -20,5 +20,23 @@ An input that doesn't induce a failure, as a JUnit test and any associated code 
 ```
 The symptom, as the output of running the tests (provide it as a screenshot of running JUnit with at least the two inputs above)
 The bug, as the before-and-after code change required to fix it (as two code blocks in Markdown)
+Before
+
+After
+```
+static double averageWithoutLowest(double[] arr) {
+    if(arr.length < 2) { return 0.0; }
+    double lowest = arr[0];
+    for(double num: arr) {
+      if(num < lowest) { lowest = num; }
+    }
+    double sum = 0;
+    for(double num: arr) {
+      sum += num;
+    }
+    sum -= lowest;
+    return sum / (arr.length - 1);
+  }
+```
 
 ## Part 2
