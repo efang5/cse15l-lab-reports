@@ -1180,14 +1180,16 @@ technical//plos/journal.pbio.0020012.txt
 technical//plos/pmed.0020281.txt
 technical//plos/pmed.0020242.txt
 ```
+The first printed out every file with at least one link in biomed and the second printed out every file with at least one link in plos. It can help you find files that have links and you can choose the number of links.
 [Link](https://man7.org/linux/man-pages/man1/find.1.html)
 
 Method 4 -newer (reference)
 ```
-
+ethans-mbp-3:docsearch ethanfang$ find technical//biomed -newer find-results.txt
 ```
 ```
-
+ethans-mbp-3:docsearch ethanfang$ find technical//plos -newer find-results.txt
 ```
+They both print out nothing as neither has any files that have been changed since find-results.txt was last changed. Its useful to help you find files that you have recently worked on and you know a name that is before what you want.
 [Link](https://man7.org/linux/man-pages/man1/find.1.html)
 
