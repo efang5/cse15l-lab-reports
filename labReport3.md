@@ -60,6 +60,8 @@ static double averageWithoutLowest(double[] arr) {
   }
 ```
 
+The bug was every instance of the smallest number was not being added to the sum before dividing to find the average. I changed it so that I would find the total sum then remove the smallest number, then divide to find the average.
+
 ## Part 2
 Chosen: find
 
@@ -1180,7 +1182,7 @@ technical//plos/journal.pbio.0020012.txt
 technical//plos/pmed.0020281.txt
 technical//plos/pmed.0020242.txt
 ```
-The first printed out every file with at least one link in biomed and the second printed out every file with at least one link in plos. It can help you find files that have links and you can choose the number of links.
+The first printed out every file with at least one link in biomed and the second printed out every file with at least one link in plos. It can help you find files that have links and you can choose the number of links. A link in this case assigns a name to a file.
 [Link](https://man7.org/linux/man-pages/man1/find.1.html)
 
 Method 4 -newer (reference)
