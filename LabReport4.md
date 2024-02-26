@@ -18,4 +18,8 @@ Keys pressed: <up><up><up><up><up><up><up><up><up><enter><up><right><right><righ
 hit up arrow 9 times to get to vim ListExamples.java, moved to behind the 1 that needed to be changed i to enter edit mode, backspace to remove the 1 and 2 to put a 2 there and :wq to save and exit
 
 ![Image](http://url/a.png)
-Keys pressed: <up><left><left><left><left><left>Tests<enter>
+Keys pressed: <up><up><up><up><enter>
+to run test.sh I just needed to go 4 back in history(note I had to relogin after timing out and having issues because I was previously in ieng-203 which does not have javac enabled)
+
+![Image](http://url/a.png)
+Keys pressed: 
