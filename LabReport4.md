@@ -22,4 +22,5 @@ Keys pressed: <up><up><up><up><enter>
 to run test.sh I just needed to go 4 back in history(note I had to relogin after timing out and having issues because I was previously in ieng-203 which does not have javac enabled)
 
 ![Image](http://url/a.png)
-Keys pressed: 
+Keys pressed: git add<enter>git commit -m "commiting"<enter>git push
+I manually added, commited then pushed the changes
