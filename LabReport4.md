@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-02-24%20at%2012.10.58%20PM.png?raw=true)
 Keys pressed: `<up><enter>`
-singing into ieng6 was 1 up in my history so I hit up then enter to do so
+signing into ieng6 was 1 up in my history so I hit up then enter to do so
 
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-02-24%20at%201.17.45%20PM.png?raw=true)
 Keys pressed: `git clone <control v>`
