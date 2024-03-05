@@ -14,8 +14,8 @@ Keys pressed: `cd lab7 <enter>ls<enter> bash test.sh`
 changed directory to lab7, ls to check the file names, ran test.sh to run the tests
 
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-02-27%20at%206.46.48%20AM.png?raw=true)
-Keys pressed: `<up><up><up><up><up><up><up><up><up><enter><up><right><right><right><right><right>i<backspace>2:wq<enter>`
-hit up arrow 9 times to get to vim ListExamples.java, moved to behind the 1 that needed to be changed i to enter edit mode, backspace to remove the 1 and 2 to put a 2 there and :wq to save and exit
+Keys pressed: `<up><up><up><up><up><up><up><up><up><enter><up><right><right><right><right><right>i<backspace>2<esc>:wq<enter>`
+hit up arrow 9 times to get to vim ListExamples.java, moved to behind the 1 that needed to be changed i to enter edit mode, backspace to remove the 1 and 2 to put a 2 there, esc to exit insert mode, and :wq enter to save and exit
 
 ![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-02-26%20at%201.12.17%20PM.png?raw=true)
 Keys pressed: `<up><up><up><up><enter>`
