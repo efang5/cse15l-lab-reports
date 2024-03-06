@@ -171,5 +171,50 @@ public class Sanctuary {
     }
 }
 ```
+javac results
+```
+Sanctuary.java:139: error: class, interface, enum, or record expected
+    public int helpClosingSanctuary(Sanctuary closingSanctuary) {
+           ^
+Sanctuary.java:141: error: class, interface, enum, or record expected
+        if(closingSanctuary ==null){
+        ^
+Sanctuary.java:143: error: class, interface, enum, or record expected
+        }
+        ^
+Sanctuary.java:146: error: class, interface, enum, or record expected
+        }
+        ^
+Sanctuary.java:148: error: class, interface, enum, or record expected
+        ArrayList<String> speciesArray = new ArrayList<>();
+        ^
+Sanctuary.java:149: error: class, interface, enum, or record expected
+        for (String specie: closingSpecies){
+        ^
+Sanctuary.java:151: error: class, interface, enum, or record expected
+        } 
+        ^
+Sanctuary.java:153: error: class, interface, enum, or record expected
+        for(String specie: speciesArray){
+        ^
+Sanctuary.java:155: error: class, interface, enum, or record expected
+            int fail = this.rescue(specie, 
+            ^
+Sanctuary.java:157: error: class, interface, enum, or record expected
+            closingSanctuary.sanctuary.put(specie, fail);
+            ^
+Sanctuary.java:158: error: class, interface, enum, or record expected
+            if(fail == 0){
+            ^
+Sanctuary.java:160: error: class, interface, enum, or record expected
+            }
+            ^
+Sanctuary.java:162: error: class, interface, enum, or record expected
+        }
+        ^
+Sanctuary.java:164: error: class, interface, enum, or record expected
+    }
+```
 
-
+2. A response from a TA asking a leading question or suggesting a command to try (To be clear, you are mimicking a TA here.)
+hi
