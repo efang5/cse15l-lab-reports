@@ -1351,6 +1351,7 @@ A full style guide can be found [here](https://github.com/CaoAssignments/style-g
 
 <br>The full command line (or lines) you ran to trigger the bug
 ```
+```
 javac Sanctuary.java
 ```
 <br>A description of what to edit to fix the bug
