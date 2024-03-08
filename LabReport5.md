@@ -1131,10 +1131,10 @@ Download the starter code from here and put it in a directory in your working en
 
 You will find the following files:
 
-
+```
 +-- PA5
 |   +-- PublicTester.java
-
+```
 You will have to create the following files: `Student.java`, `Course.java`, `Sanctuary.java`, and `CustomTester.java`.
 
 Here are a list of imports you may use to help you complete this part of the assignment:
@@ -1349,7 +1349,6 @@ A full style guide can be found [here](https://github.com/CaoAssignments/style-g
 * **Coding Style** [5 points]
     * `Student.java`, `Course.java`, `Sanctuary.java` will be graded on style. `CustomTester.java` will be graded on file, class, method headers and indentation.
 
-```
 <br>The full command line (or lines) you ran to trigger the bug
 ```
 javac Sanctuary.java
