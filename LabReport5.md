@@ -1348,9 +1348,10 @@ A full style guide can be found [here](https://github.com/CaoAssignments/style-g
         * The autograder will test your implementation on the public test cases given in `PublicTester.java` and hidden test cases not described in this PA writeup.
 * **Coding Style** [5 points]
     * `Student.java`, `Course.java`, `Sanctuary.java` will be graded on style. `CustomTester.java` will be graded on file, class, method headers and indentation.
-
-<br>The full command line (or lines) you ran to trigger the bug
 ```
+
+The full command line (or lines) you ran to trigger the bug
+
 ```
 javac Sanctuary.java
 ```
