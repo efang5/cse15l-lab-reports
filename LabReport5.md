@@ -220,7 +220,7 @@ Sanctuary.java:164: error: class, interface, enum, or record expected
 <br>Try checking the Problems section on VSCode and see if it gives you a better idea of the issue.
 
 3. Another screenshot/terminal output showing what information the student got from trying that, and a clear description of what the bug is.
-![Image](photo of problems section)
+![Image](https://github.com/efang5/cse15l-lab-reports/blob/main/Screenshot%202024-03-08%20at%208.37.11%20AM.png?raw=true)
 
 4. At the end, all the information needed about the setup including:
 <br>The file & directory structure needed
