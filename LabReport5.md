@@ -232,6 +232,7 @@ Sanctuary.java:164: error: class, interface, enum, or record expected
     "java.debug.settings.onBuildFailureProceed": true
 }
 ```
+
 Course.java
 ```
 /**
@@ -404,6 +405,7 @@ public class Course {
     }
 }
 ```
+
 CustomTester.java
 ```
 /**
@@ -584,6 +586,7 @@ public class CustomTester {
     }
 }
 ```
+
 PublicTester.java
 ```
 /*
@@ -818,6 +821,7 @@ public class PublicTester {
     }
 }
 ```
+
 Sanctuary.java
 ```
 
@@ -986,10 +990,12 @@ public class Sanctuary {
     }
 }
 ```
+
 SanctuaryCompileFail.sh
 ```
 javac Sanctuary.java
 ```
+
 Student.java
 ```
 /**
@@ -1098,6 +1104,7 @@ public class Student implements Comparable<Student>{
     }
 }
 ```
+
 README.md
 ```
 # CSE 12 Winter 2024 PA5 - Hash Table
