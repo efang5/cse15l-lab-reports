@@ -1356,7 +1356,7 @@ A full style guide can be found [here](https://github.com/CaoAssignments/style-g
 javac Sanctuary.java
 ```
 <br>A description of what to edit to fix the bug
-Delete the extra curly bracket on line 132 of Sanctuary.java.
+<br>Delete the extra curly bracket on line 132 of Sanctuary.java.
 
 ## Part 2
 I learned how to use java jdb to stop at a certain point and get the local variables at that point. You use ```Javac -g *.java(self expand)``` so that you will be able to access the local variables. Create the jdb with ```jdb MainClass(Main.java in this case)```
