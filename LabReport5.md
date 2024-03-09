@@ -1139,10 +1139,9 @@ Download the starter code from here and put it in a directory in your working en
 
 You will find the following files:
 
-```
 +-- PA5
 |   +-- PublicTester.java
-```
+
 You will have to create the following files: `Student.java`, `Course.java`, `Sanctuary.java`, and `CustomTester.java`.
 
 Here are a list of imports you may use to help you complete this part of the assignment:
